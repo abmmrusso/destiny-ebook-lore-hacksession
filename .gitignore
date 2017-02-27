@@ -1,0 +1,4 @@
+*.epub
+*.json
+images
+.DS_Store
